@@ -1,6 +1,6 @@
 # Multi-Entity-Extraction
 
-![alt text](https://github.com/Pareek-Yash/Multi-Entity-Extraction/blob/main/assets/images/Multi-Entity%20Extraction.png?raw=true)
+![alt text](https://github.com/Pareek-Yash/Multi-Entity-Extraction/blob/main/assets/images/Multi-Entity%20Extraction.png?raw=true=500x500)
 
 
 
