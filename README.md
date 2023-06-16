@@ -1,6 +1,8 @@
 # Multi-Entity-Extraction
 
-![alt text](https://github.com/Pareek-Yash/Multi-Entity-Extraction/blob/main/assets/images/Multi-Entity%20Extraction.png?raw=true=500x500)
+<div style="text-align: center;">
+  <img src="https://github.com/Pareek-Yash/Multi-Entity-Extraction/blob/main/assets/images/Multi-Entity%20Extraction.png?raw=true" alt="image" width="500" height="500" />
+</div>
 
 
 
