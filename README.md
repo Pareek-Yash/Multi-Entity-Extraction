@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 We plan to extend the current model capabilities by adding more entity types and training on a wider range of data sources. We're also looking forward to developing a user-friendly application that can utilize this model for real-time entity extraction.
 
-For any questions or feedback, feel free to open an issue on this repository. Connect with me on Linkedin @ Pareek-Yash.
+For any questions or feedback, feel free to open an issue on this repository. Connect with me on Linkedin @ [Pareek-Yash](linkedin.com/in/pareek-yash).
